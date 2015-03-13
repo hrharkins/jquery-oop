@@ -1,0 +1,1 @@
+Ever feel that building a jQuery plugin as prescribed by jQuery required a lot of boilerplate?  Even want to build a plugin that extended an existing one?  Ever want to tweak an existing plugin with default settings for your project?  If so, then jquery-oop is for you!
